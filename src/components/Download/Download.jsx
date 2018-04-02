@@ -9,6 +9,7 @@ class Download extends Component {
           <p>
             Get the cross-platform binary here.
           </p>
+          <a href='' >GoatNickels Pre-Alpha</a>
         </section>
         <section>
           <h1>Download GoatBucket</h1>
