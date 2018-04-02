@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
-    "path---gb-quick-start-guide": [
-      "path---gb-quick-start-guide-504078989612ea01f74c.js",
-      "path---gb-quick-start-guide-504078989612ea01f74c.js.map"
-    ],
     "component---src-pages-download-js": [
       "component---src-pages-download-js-290a15ba118ef3ebf645.js",
       "component---src-pages-download-js-290a15ba118ef3ebf645.js.map"
+    ],
+    "path---goat-bucket-quick-start-guide": [
+      "path---goat-bucket-quick-start-guide-f7bf84496db30ed98a7a.js",
+      "path---goat-bucket-quick-start-guide-f7bf84496db30ed98a7a.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -16,13 +16,13 @@
       "component---src-layouts-index-jsx-82f412293ee3e2a61f22.js",
       "component---src-layouts-index-jsx-82f412293ee3e2a61f22.js.map"
     ],
-    "path---gn-quick-start-guide": [
-      "path---gn-quick-start-guide-12546c0f5b219eec5084.js",
-      "path---gn-quick-start-guide-12546c0f5b219eec5084.js.map"
-    ],
     "path---categories-tech": [
       "path---categories-tech-b53b68288f3e8b92d546.js",
       "path---categories-tech-b53b68288f3e8b92d546.js.map"
+    ],
+    "path---goat-nickels-quick-start-guide": [
+      "path---goat-nickels-quick-start-guide-7a57fb84151e5d68f0b1.js",
+      "path---goat-nickels-quick-start-guide-7a57fb84151e5d68f0b1.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -33,16 +33,16 @@
       "component---src-templates-lesson-jsx-ff14081843f7192fde06.js.map"
     ],
     "path---block-data": [
-      "path---block-data-65530613575f8baa8c49.js",
-      "path---block-data-65530613575f8baa8c49.js.map"
+      "path---block-data-0b9a51568bce7dc4451c.js",
+      "path---block-data-0b9a51568bce7dc4451c.js.map"
     ],
     "component---src-templates-category-jsx": [
       "component---src-templates-category-jsx-3a50fee79b9519c47f96.js",
       "component---src-templates-category-jsx-3a50fee79b9519c47f96.js.map"
     ],
     "path---index": [
-      "path---index-2f88fe514622e14310df.js",
-      "path---index-2f88fe514622e14310df.js.map"
+      "path---index-37fe50a832836759ec0e.js",
+      "path---index-37fe50a832836759ec0e.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-15f738a5f05e1d25559e.js",
@@ -53,9 +53,9 @@
       "path---post-one-85745b4dfa447f7e858a.js.map"
     ],
     "commons": [
-      "commons-3ed9cd410b8d3071bae9.js",
+      "commons-4f8a50596870b49118d7.js",
       "build-js-styles.css",
-      "commons-3ed9cd410b8d3071bae9.js.map",
+      "commons-4f8a50596870b49118d7.js.map",
       "build-js-styles.css.map"
     ],
     "path---download": [
@@ -63,8 +63,8 @@
       "path---download-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---consensus": [
-      "path---consensus-25ee1bf8e1b6da2f92f2.js",
-      "path---consensus-25ee1bf8e1b6da2f92f2.js.map"
+      "path---consensus-4e3175666b0477502327.js",
+      "path---consensus-4e3175666b0477502327.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -75,13 +75,13 @@
       "component---src-templates-post-jsx-c24646a42b1921578d22.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-8755fdcdea62dc80a04d.js",
-      "component---src-pages-index-jsx-8755fdcdea62dc80a04d.js.map"
+      "component---src-pages-index-jsx-f7a4b6761bfe978a362f.js",
+      "component---src-pages-index-jsx-f7a4b6761bfe978a362f.js.map"
     ],
     "app": [
-      "app-4c00bcfe56e33232c057.js",
+      "app-31a27e6f98ae5701c05a.js",
       "build-js-styles.css",
-      "app-4c00bcfe56e33232c057.js.map",
+      "app-31a27e6f98ae5701c05a.js.map",
       "build-js-styles.css.map"
     ],
     "path---about": [
