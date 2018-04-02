@@ -2,35 +2,29 @@
   "id": "table-of-contents",
   "coolness": "very-cool",
   "chapters": {
-    "one": {
-      "subchapter_one_one": [
+    "goat_nickels": {
+      "getting_started": [
+          {
+            "post": "./gn/quick_start.md"
+          }
+        ],
+      "block_data": [
+          {
+            "post": "./gn/block_data.md"
+          }
+        ],
+      "consensus": [
         {
-          "post": "./lesson_one.md"
-        },
-        {
-          "post": "./lesson_one.md"
-        },
-        {
-          "post": "./lesson_one.md"
-        }
-      ],
-      "subchapter_one_two": [
-        {
-          "post": "./lesson_one.md"
-        }
-      ]
-    },
-    "two": {
-      "subchapter_two_one": [
-        {
-          "post": "./lesson_one.md"
+          "post": "./gn/consensus.md"
         }
       ]
     },
-    "three": [
-      {
-        "post": "./lesson_one.md"
-      }
-    ]
+    "goat_bucket": {
+      "getting_started": [
+        {
+          "post": "./gb/quick_start.md"
+        }
+      ]
+    }
   }
 }

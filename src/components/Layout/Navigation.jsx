@@ -40,7 +40,7 @@ class Navigation extends React.Component {
         <section>
           <Link className='nav-link' to='/' > HOME </Link>
           <Link className='nav-link' to='/download' > DOWNLOAD </Link>
-          <Link className='nav-link' to='/lesson-one' > DOCS </Link>
+          <Link className='nav-link' to='/gn-quick-start-guide' > DOCS </Link>
           <Link className='nav-link' to='/about' > ABOUT </Link>
         </section>
         <span><UserLinks /></span>

@@ -120,8 +120,8 @@ export const pageQuery = graphql`
   tableOfContents: lessonsJson {
       coolness
       chapters {
-        one {
-          subchapter_one_one {
+        goat_nickels {
+          getting_started {
             post {
               id
               childMarkdownRemark {
@@ -134,7 +134,20 @@ export const pageQuery = graphql`
               }
             }
           }
-          subchapter_one_two {
+          block_data {
+            post {
+              id
+              childMarkdownRemark {
+                fields {
+                  slug
+                }
+                frontmatter {
+                  title
+                }
+              }
+            }
+          }
+          consensus {
             post {
               id
               childMarkdownRemark {
@@ -148,8 +161,8 @@ export const pageQuery = graphql`
             }
           }
         }
-        two {
-          subchapter_two_one {
+        goat_bucket {
+          getting_started {
             post {
               id
               childMarkdownRemark {
@@ -163,20 +176,7 @@ export const pageQuery = graphql`
             }
           }
         }
-        three {
-          post {
-            id
-            childMarkdownRemark {
-              fields {
-                slug
-              }
-              frontmatter {
-                title
-              }
-            }
-          }
-        }
-      }
+      }  
     }
   }
 `;
