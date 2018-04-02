@@ -8,28 +8,28 @@
           "post": "./lesson_one.md"
         },
         {
-          "post": "./lesson_two.md"
+          "post": "./lesson_one.md"
         },
         {
-          "post": "./lesson_three.md"
+          "post": "./lesson_one.md"
         }
       ],
       "subchapter_one_two": [
         {
-          "post": "./lesson_four.md"
+          "post": "./lesson_one.md"
         }
       ]
     },
     "two": {
       "subchapter_two_one": [
         {
-          "post": "./lesson_five.md"
+          "post": "./lesson_one.md"
         }
       ]
     },
     "three": [
       {
-        "post": "./lesson_six.md"
+        "post": "./lesson_one.md"
       }
     ]
   }
