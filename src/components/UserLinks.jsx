@@ -32,7 +32,7 @@ class UserLinks extends Component {
   render() {
     return (
       <Container className="user-links">
-        <UserIcon href='https://github.com/seanmclane'>
+        <UserIcon href='https://github.com/seanmclane/goatnickels'>
           <FaGithubAlt style={iconStyle} />
         </UserIcon>
       </Container>
